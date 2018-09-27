@@ -1,0 +1,12 @@
+{
+    "name": "Raspberry_Pi_Flows",
+    "description": "Multiple Flow to Control Raspberry Pi",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_domus.json",
+            "credentialsFile": "flows_domus_cred.json"
+        }
+    }
+}
